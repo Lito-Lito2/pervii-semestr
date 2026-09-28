@@ -30,7 +30,7 @@ int main()
 {
     double x = -2.9;
     double y = 15.5;
-    double z = 0.44;
+    double z = 1.5;
 
     printf("A = %lf\n", GetA(x, y, z));
     printf("B = %lf\n", GetB(x, y, z));
